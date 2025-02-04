@@ -1,0 +1,12 @@
+Player Damage/Hit
+https://pixabay.com/sound-effects/damage-40114/
+https://pixabay.com/sound-effects/shatter-93498/
+
+Player Shoot
+https://pixabay.com/sound-effects/shoot-1-81135/
+
+Enemy Damage/Hit
+https://pixabay.com/sound-effects/wood-smash-1-170410/
+
+Enemy Shoot
+https://pixabay.com/sound-effects/pow-90398/

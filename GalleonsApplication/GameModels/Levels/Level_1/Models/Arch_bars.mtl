@@ -1,0 +1,12 @@
+# Blender 4.1.0 MTL File: 'AntonioRoldan_LevelRenderer.blend'
+# www.blender.org
+
+newmtl Iron.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.048574 0.023395 0.019543
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

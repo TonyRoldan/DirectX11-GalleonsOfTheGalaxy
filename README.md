@@ -49,6 +49,11 @@ Allow Permission to Run Application: <br/>
 <br />
 <br />
 
+Open the README at this path for Instruction Manual: <br/>
+<img src="https://i.imgur.com/ObefhbE.png" height="80%" width="80%"/>
+<br />
+<br />
+
 <h2>Contribution Samples:</h2>
 
 Render to Texture Mini-Map: <br/>
